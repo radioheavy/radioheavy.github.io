@@ -1,0 +1,14 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["GH9YA397Z4.com.dakmaybe.hushframe"],
+        "components": [
+          { "/": "/hushframe/s/*", "comment": "Style links" },
+          { "/": "/hushframe/i/*", "comment": "Invite links" },
+          { "/": "/hushframe/r/*", "comment": "Shared edits" }
+        ]
+      }
+    ]
+  }
+}
